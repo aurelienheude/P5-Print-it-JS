@@ -1,4 +1,4 @@
-const bannerImg = document.querySelector(".banner-bannerImg");
+const bannerImg = document.querySelector(".banner-img");
 const arrow_next = document.querySelector(".arrow_right");
 const arrow_previous = document.querySelector(".arrow_left");
 const bannerDots = document.querySelectorAll(".dot");
